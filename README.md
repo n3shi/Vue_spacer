@@ -3,9 +3,13 @@
 ## Description
 
 ```
-This is just test app to check if Netlify works correctly
+This is just test app to check if Netlify works correctly 
 ```
 
+## Adnotacja
+```
+Kocham misia
+```
 
 ## Project setup
 ```
