@@ -1,5 +1,12 @@
 # spacer_v3
 
+## Description
+
+```
+This is just test app to check if Netlify works correctly
+```
+
+
 ## Project setup
 ```
 npm install
@@ -27,3 +34,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
