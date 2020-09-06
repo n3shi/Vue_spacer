@@ -6,11 +6,6 @@
 This is just test app to check if Netlify works correctly 
 ```
 
-## Adnotacja
-```
-Kocham misia
-```
-
 ## Project setup
 ```
 npm install
